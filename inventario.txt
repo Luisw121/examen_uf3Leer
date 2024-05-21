@@ -1,0 +1,5 @@
+Tomates,1
+Cebollas,10
+Ajos,4
+Pimientos,7
+Zanahorias,2

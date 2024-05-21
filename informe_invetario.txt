@@ -1,0 +1,8 @@
+Prodctos con cantidad menor a 5:
+Tomates,1
+Ajos,4
+Zanahorias,2
+
+Productos con cantidad mayor o igual a 5:
+Cebollas,10
+Pimientos,7

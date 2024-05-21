@@ -1,0 +1,4 @@
+Luis, 5000
+Carla, 4000
+Lucia, 3000
+Carlos, 3000

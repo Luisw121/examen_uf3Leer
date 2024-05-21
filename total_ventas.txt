@@ -1,0 +1,4 @@
+Producto,Total_Ventas
+Manzanas,12.5
+Naranjas,5.25
+Plátanos,2.4

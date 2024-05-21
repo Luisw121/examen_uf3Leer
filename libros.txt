@@ -1,0 +1,5 @@
+Título: KLK
+Autor: LUIS
+Género: ficcion
+Precio con Descuento: 21.0
+--
