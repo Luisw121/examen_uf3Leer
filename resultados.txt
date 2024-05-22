@@ -1,0 +1,4 @@
+Suma: 4.0
+Resta: 0.0
+Multiplicación: 4.0
+División: 1.0
