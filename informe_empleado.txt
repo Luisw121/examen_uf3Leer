@@ -1,0 +1,20 @@
+Departamentos:
+Finanzas:
+María,3200
+Pedro,2900
+Total Salario: 6100
+
+Desarrollo:
+Luisa,4200
+Ana,3100
+Total Salario: 7300
+
+Marketing:
+Juan,2500
+Carlos,1800
+Total Salario: 4300
+
+Empleados con salario mayor a 3000:
+María,3200
+Luisa,4200
+Ana,3100

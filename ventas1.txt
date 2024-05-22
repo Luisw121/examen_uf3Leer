@@ -1,0 +1,6 @@
+Juan,Manzanas,150.0
+María,Naranjas,200.5
+Juan,Peras,100.0
+Luisa,Plátanos,75.0
+Pedro,Uvas,120.0
+María,Manzanas,50.0

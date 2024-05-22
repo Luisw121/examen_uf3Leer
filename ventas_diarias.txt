@@ -1,0 +1,8 @@
+Fecha: 23/2/2024
+Producto: Calabazas
+Cantidad: 21
+Precio Unitario: 23.0
+Ingreso: 483.0
+--
+Ingreso Total del Día: 483.0
+--

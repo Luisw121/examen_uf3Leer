@@ -1,0 +1,6 @@
+Juan,Marketing,2500
+María,Finanzas,3200
+Carlos,Marketing,1800
+Luisa,Desarrollo,4200
+Pedro,Finanzas,2900
+Ana,Desarrollo,3100

@@ -1,0 +1,2 @@
+Nombre: Carlos, Edad: 21, Calificación: 10.0
+Nombre: Luis, Edad: 43, Calificación: 1.0
