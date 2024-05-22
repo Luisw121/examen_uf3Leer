@@ -1,4 +1,4 @@
-package PosiblesEjercicios;
+package EjerciciosMatematicos;
 
 import java.io.*;
 

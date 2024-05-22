@@ -1,4 +1,4 @@
-package PosiblesEjercicios;
+package EjeciciosComplejos;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package PosiblesEjercicios;
+package EjerciciosDeLecturaYEscritura;
 
 import java.io.*;
 
